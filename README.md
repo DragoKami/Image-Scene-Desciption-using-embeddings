@@ -32,3 +32,16 @@ Samples:
 
 
 <img src="image-caption.png">
+
+
+### Output
+
+<img src='output.jpg'>
+
+## Steps to run:
+* Upload this to your kaggle account
+* Add the flickr dataset (available on Kaggle)
+* Run the code
+
+### License
+This notebook is created by Abhishek Gautam and is licenced under MIT.
